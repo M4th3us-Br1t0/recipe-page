@@ -22,8 +22,8 @@ Esta é uma solução para o [desafio de página de receita no Frontend Mentor](
 
 ### Links
 
-- URL da Solução: [Adicione o URL da solução aqui](https://seu-url-de-solucao.com)
-- URL do Site Ao Vivo: [Adicione o URL do site ao vivo aqui](https://seu-url-do-site-ao-vivo.com)
+- URL da Solução: [Adicione o URL da solução aqui](https://www.frontendmentor.io/solutions/recipe-page-using-css-flex-and-semantic-html-jeVODqmXBj)
+- URL do Site Ao Vivo: [Adicione o URL do site ao vivo aqui](https://m4th3us-br1t0.github.io/recipe-page/)
 
 ## Meu Processo
 
