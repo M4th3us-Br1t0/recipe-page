@@ -1,0 +1,157 @@
+:root {
+    --nutmeg: hsl(14, 45%, 36%);
+    --dark-raspberry: hsl(332, 51%, 32%);
+    --dark-raspberry-opacity: hsla(332, 60%, 41%, 0.1);
+
+    --white: hsl(0, 0%, 100%);
+    --rose-white: hsl(330, 100%, 98%);
+    --eggshell: hsl(30, 54%, 90%);
+    --light-grey: hsl(30, 18%, 87%);
+    --wenge-brown: hsl(30, 10%, 34%);
+    --dark-charcoal: hsl(24, 5%, 18%);
+}
+
+strong {
+    font-weight: bold; /* Define a negrito para a tag <strong> */
+    color: var(--dark-charcoal);
+}
+
+
+.container{
+    background-color: var(--eggshell);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    color: var(--dark-charcoal);
+}
+
+.omelette{
+    width: 40.9375rem;
+    height: 18.77rem;
+    border-radius: 0.625rem;
+}
+
+.recipe-page{
+    background-color: var(--rose-white);
+    width: 46rem;
+    height: 106.78rem;
+    padding: 2.563rem 2.563rem; 
+    margin: 7.688rem auto;
+    border-radius: 1.563rem;
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
+}
+
+.title-paragraph h1{
+    margin-top: 1.75rem;
+}
+
+.title-paragraph p{
+    margin-top: 1.125rem;
+}
+
+.recipe-title.title{
+    font-weight: 400;
+    font-size: 2.5rem;
+    color: var(--dark-charcoa);
+}
+
+.title{
+    font-family: "Young Serif", serif;
+    color: var(--nutmeg);
+    font-size: 1.7688rem;
+}
+
+.preparation-time{
+    background-color: var(--dark-raspberry-opacity);
+    height: 11.25rem;
+    margin-top: 2.2813rem;
+    border-radius: 0.625rem;
+    padding: 1.5625rem 1.6875rem;
+}
+
+.preparation-time-title{
+    color: var(--dark-raspberry);
+    font-family: "Outfit", sans-serif;
+    font-weight: 700;
+    font-size: 1.225rem;
+}
+
+.list-preparation{
+    padding-left: 1.5625rem;
+}
+
+.list-preparation li{
+    padding-top: 0.8125rem;
+    padding-left: 0.9375rem;
+}
+
+.list-preparation li::marker{
+    color: var(--dark-raspberry);
+}
+
+.list-marker li::marker{
+    color: var(--nutmeg);
+    font-weight: 700;
+}
+
+.ingredients{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    margin-top: 1.5625rem;
+    padding-bottom: 2.25rem;
+}
+
+.ingredients .list-igredients{
+    padding-top: 0.3125rem;
+    padding-left: 1.5rem;
+}
+
+.ingredients .list-igredients li{
+    padding-top: 0.75rem;
+    padding-left: 0.9375rem;
+}
+
+.instruction{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    margin-top: 1.5625rem;
+    padding-bottom: 2.25rem;
+}
+
+.instruction .list-instruction{
+    padding-top: 0.3125rem;
+    padding-left: 1.5rem;
+}
+
+.instruction .list-instruction li{
+    padding-top: 0.9375rem;
+    padding-left: 0.9375rem;
+}
+
+.nutrition{
+    margin-top: 1.5625rem;
+}
+
+.nutrition-description{
+    margin-top: 1.25rem;
+}
+
+.table-nutrition{
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 1.5625rem;
+}
+
+.table-nutrition tr th{
+    border-bottom: 0.0625rem solid rgba(0, 0, 0, 0.1);
+    text-align: left;
+    padding: 0.625rem 0rem 0.9375rem 1.875rem; 
+}
+
+.table-nutrition .last-nutrition{
+    border-bottom: none;
+}
+
+.table-nutrition tr th .strong-nutrition{
+    color: var(--nutmeg);
+}
