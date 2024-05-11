@@ -35,8 +35,6 @@ Esta é uma solução para o [desafio de página de receita no Frontend Mentor](
 
 Neste repositório, você encontrará um projeto onde explorei e aprendi sobre HTML semântico e a correta estruturação de conteúdo utilizando tabelas, listas e seções, aplicando também as divs de forma adequada. Aprendi também sobre duas poderosas ferramentas do CSS: Flexbox e Propriedades Personalizadas.
 
-Para ver como você pode adicionar trechos de código, veja abaixo:
-
 ## Autor
 
 - Linkedin - [Matheus-Brito](https://www.linkedin.com/in/matheus-brito06/)
