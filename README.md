@@ -12,8 +12,6 @@ Esta é uma solução para o [desafio de página de receita no Frontend Mentor](
   - [O que aprendi](#o-que-aprendi)
 - [Autor](#autor)
 
-**Nota: Delete esta nota e atualize o sumário com base nas seções que você mantém.**
-
 ## Visão Geral
 
 ### Captura de tela
